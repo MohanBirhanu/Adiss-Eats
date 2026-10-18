@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "name": "Doro Wot",
+    "category": "Ethiopian",
+    "description": "Slow-cooked organic chicken drumstick and hard-boiled egg stewed in rich, fiery berbere sauce and spiced niter kibbeh. Served with fresh teff injera.",
+    "ingredients": [
+      "Free-range Chicken",
+      "Traditional Berbere",
+      "Caramelized Red Onions",
+      "Niter Kibbeh (Clarified Spiced Butter)",
+      "Farm-fresh Egg",
+      "Garlic & Ginger"
+    ],
+    "price": 450,
+    "image": "https://i.pinimg.com/1200x/28/ed/65/28ed659fd2e0fb1048d83e2084de4641.jpg",
+    "available": true,
+    "spicy": true,
+    "featured": true,
+    "prepTime": "25-35 min",
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Special Kitfo",
+    "category": "Ethiopian",
+    "description": "Minced lean prime beef gently warmed with mitmita chili blend and fragrant herbal niter kibbeh. Served with ayib (fresh cottage cheese), gomen (collard greens), and kocho.",
+    "ingredients": [
+      "Prime Lean Beef",
+      "Authentic Mitmita",
+      "Spiced Butter (Niter Kibbeh)",
+      "Ayib Cheese",
+      "Steamed Gomen",
+      "Kocho Flatbread"
+    ],
+    "price": 520,
+    "image": "https://i.pinimg.com/1200x/2d/cb/4d/2dcb4d30906d77d91ed617ff9d6da93f.jpg",
+    "available": true,
+    "spicy": true,
+    "featured": true,
+    "prepTime": "20-30 min",
+    "rating": 4.95
+  },
+  {
+    "id": 3,
+    "name": "Siga Tibs (Sizzling)",
+    "category": "Ethiopian",
+    "description": "Cubed tender beef sautéed over high heat in a clay shekla with rosemary sprigs, sweet red onions, garlic, and sliced fresh jalapeños.",
+    "ingredients": [
+      "Tender Beef Sirloin",
+      "Fresh Rosemary",
+      "Red Onions",
+      "Green Jalapeños",
+      "Garlic",
+      "Spiced Clarified Butter"
+    ],
+    "price": 420,
+    "image": "https://i.pinimg.com/1200x/b1/07/4b/b1074b1c80186762da943d290f8cc59c.jpg",
+    "available": true,
+    "spicy": false,
+    "featured": true,
+    "prepTime": "20-25 min",
+    "rating": 4.85
+  },
+  {
+    "id": 4,
+    "name": "Shiro Tegabino",
+    "category": "Ethiopian",
+    "description": "Bubbling clay pot of spiced roasted chickpea puree seasoned with aromatic herbs, onions, garlic, and fresh green chili. A beloved fasting specialty.",
+    "ingredients": [
+      "Roasted Chickpea Flour",
+      "Berbere",
+      "Garlic",
+      "Onions",
+      "Cardamom & Coriander",
+      "Injera"
+    ],
+    "price": 280,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": false,
+    "prepTime": "15-20 min",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Beyaynet (Vegan Feast)",
+    "category": "Ethiopian",
+    "description": "A vibrant circular platter of vegetarian dishes: misir wot (red lentils), kik alicha (yellow split peas), gomen, fasolia, atkilt wot, and beetroot salad on teff injera.",
+    "ingredients": [
+      "Red Lentils",
+      "Yellow Split Peas",
+      "Collard Greens",
+      "Carrots & Green Beans",
+      "Beetroot",
+      "Turmeric & Ginger"
+    ],
+    "price": 340,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": true,
+    "prepTime": "20-30 min",
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "name": "Derek Tibs",
+    "category": "Ethiopian",
+    "description": "Crisp, well-done pan-roasted beef chunks tossed with fragrant awaze paste, rosemary, and green chilies. Perfectly paired with senafich (mustard dip).",
+    "ingredients": [
+      "Crispy Beef Chunks",
+      "Awaze Chili Dip",
+      "Rosemary",
+      "Senafich",
+      "Injera & Fresh Lime"
+    ],
+    "price": 460,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": true,
+    "featured": false,
+    "prepTime": "25-30 min",
+    "rating": 4.75
+  },
+  {
+    "id": 7,
+    "name": "Addis Fire Pizza",
+    "category": "Pizza",
+    "description": "Artisan stone-baked sourdough crust topped with spiced awaze marinara, seasoned minced tibs beef, mozzarella, caramelized onions, and charred green pepper rings.",
+    "ingredients": [
+      "48h Fermented Dough",
+      "Awaze Tomato Sauce",
+      "Seasoned Beef Tibs",
+      "Fior di Latte Mozzarella",
+      "Charred Jalapeños"
+    ],
+    "price": 540,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": true,
+    "featured": true,
+    "prepTime": "20-25 min",
+    "rating": 4.92
+  },
+  {
+    "id": 8,
+    "name": "Classic Margherita Pizza",
+    "category": "Pizza",
+    "description": "Traditional Italian style with San Marzano tomato puree, creamy buffalo mozzarella, fragrant fresh basil leaves, and cold-pressed extra virgin olive oil.",
+    "ingredients": [
+      "San Marzano Tomatoes",
+      "Buffalo Mozzarella",
+      "Fresh Sweet Basil",
+      "Extra Virgin Olive Oil",
+      "Sea Salt"
+    ],
+    "price": 420,
+    "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": false,
+    "prepTime": "15-20 min",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "Quattro Formaggi Pizza",
+    "category": "Pizza",
+    "description": "A decadent blend of four cheeses: aged parmesan, gorgonzola blue cheese, smoked provolone, and melted mozzarella over garlic herb oil.",
+    "ingredients": [
+      "Parmigiano Reggiano",
+      "Gorgonzola",
+      "Smoked Provolone",
+      "Whole Milk Mozzarella",
+      "Garlic Butter Crust"
+    ],
+    "price": 490,
+    "image": "https://images.unsplash.com/photo-1573821663912-569905455b1c?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": false,
+    "prepTime": "18-22 min",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "name": "Gourmet Chicken Burger",
+    "category": "Burgers",
+    "description": "Crispy buttermilk fried chicken breast coated in mild berbere honey glaze, stacked with crunchy slaw, dill pickles, and garlic aioli in a toasted brioche bun.",
+    "ingredients": [
+      "Crispy Chicken Breast",
+      "Berbere Honey Glaze",
+      "Crunchy Cabbage Slaw",
+      "Dill Pickles",
+      "Brioche Bun",
+      "French Fries"
+    ],
+    "price": 380,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": true,
+    "prepTime": "15-20 min",
+    "rating": 4.88
+  },
+  {
+    "id": 11,
+    "name": "The Addis Double Smash Burger",
+    "category": "Burgers",
+    "description": "Two 120g smashed Angus beef patties, double melted cheddar cheese, caramelized balsamic onions, secret house burger sauce, and crisp lettuce.",
+    "ingredients": [
+      "Dual 100% Angus Beef",
+      "Aged Cheddar",
+      "Caramelized Onions",
+      "House Secret Sauce",
+      "Toasted Brioche"
+    ],
+    "price": 460,
+    "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": false,
+    "prepTime": "18-22 min",
+    "rating": 4.9
+  },
+  {
+    "id": 12,
+    "name": "Smoked BBQ Bacon Burger",
+    "category": "Burgers",
+    "description": "Juicy grilled beef patty, crispy beef bacon strips, smoked Gouda, golden crispy onion rings, and smoky molasses BBQ sauce.",
+    "ingredients": [
+      "Grilled Beef Patty",
+      "Crispy Beef Bacon",
+      "Smoked Gouda",
+      "Beer-battered Onion Rings",
+      "Molasses BBQ Sauce"
+    ],
+    "price": 490,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": false,
+    "prepTime": "18-25 min",
+    "rating": 4.78
+  },
+  {
+    "id": 13,
+    "name": "Ethiopian Yirgacheffe Spiced Cold Brew",
+    "category": "Drinks",
+    "description": "Single-origin Yirgacheffe specialty coffee steeped for 18 hours, infused with fresh crushed cardamom pod and orange zest over crystal ice.",
+    "ingredients": [
+      "Single-Origin Yirgacheffe Beans",
+      "Filtered Water",
+      "Green Cardamom",
+      "Orange Zest"
+    ],
+    "price": 140,
+    "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": true,
+    "prepTime": "5 min",
+    "rating": 4.96
+  },
+  {
+    "id": 14,
+    "name": "Fresh Layered Avocado & Mango Spris",
+    "category": "Drinks",
+    "description": "Addis Ababa's iconic fresh fruit drink: velvety pureed avocado, sweet tropical mango, and fresh papaya layers, finished with a fresh lime squeeze.",
+    "ingredients": [
+      "Hass Avocado",
+      "Ripe Mango",
+      "Papaya",
+      "Fresh Lime Juice",
+      "Vimto drizzle"
+    ],
+    "price": 160,
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": false,
+    "prepTime": "5-10 min",
+    "rating": 4.9
+  },
+  {
+    "id": 15,
+    "name": "Hibiscus Ginger Zobo Infusion",
+    "category": "Drinks",
+    "description": "Refreshing chilled organic hibiscus flower tea simmered with spicy highland ginger, cloves, and sweetened with raw clover honey.",
+    "ingredients": [
+      "Highland Dried Hibiscus",
+      "Crushed Ginger Root",
+      "Cloves",
+      "Raw Organic Honey",
+      "Mint Sprig"
+    ],
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": false,
+    "prepTime": "5 min",
+    "rating": 4.82
+  },
+  {
+    "id": 16,
+    "name": "Coca-Cola (Glass Bottle)",
+    "category": "Drinks",
+    "description": "Ice-cold classic 300ml glass bottle Coca-Cola served with lemon slice and ice.",
+    "ingredients": [
+      "Carbonated Water",
+      "Cane Sugar",
+      "Natural Flavors",
+      "Caffeine"
+    ],
+    "price": 60,
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=800&q=80",
+    "available": true,
+    "spicy": false,
+    "featured": false,
+    "prepTime": "2 min",
+    "rating": 4.6
+  }
+]

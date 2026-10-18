@@ -1,0 +1,6 @@
+{
+  "name": "Addis Eats",
+  "description": "Authentic Ethiopian and contemporary food ordering platform in Addis Ababa with interactive delivery zone mapping, instant search, cart, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
